@@ -10,16 +10,17 @@ A linha entre o que é uma criação nova apenas assistida pela IA e o que é pl
 ```
 
 
-Faça um texto para ebook, com a ideia central de avaliar o risco de plágio na utilização de informações da Web, incluindo informações escritas por inteligencias artificiais,
+Faça um texto para ebook, com a ideia central de avaliar o risco de plágio na utilização de informações da Web,
+incluindo informações escritas por inteligencias artificiais,
 comente os principais problemas envolvendo plágio e suas consequências, diga exemplos. 
 
 {Regras}
 
-Explique de modo simples
+>Explique de modo simples
 
-Deixe o texto curto
+>Deixe o texto curto
 
-Comente exemplos das consequências
+>Comente exemplos das consequências
 
 ```
 
